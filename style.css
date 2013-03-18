@@ -1,7 +1,11 @@
 header, section, footer
 {
-  width: 960px;
+  width: 70%;
   margin: auto;
+}
+header
+{
+  padding-top:120px;
 }
 
 aside
@@ -19,6 +23,7 @@ aside
 /* Setup style information */
 html
 {
+  background: url('images/ship.png') top right no-repeat;
   font: 18px / 25pt 'Source Sans Pro', sans-serif;
 }
 
