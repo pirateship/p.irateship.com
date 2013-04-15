@@ -1,6 +1,6 @@
 header, section, footer
 {
-  width: 70%;
+  max-width: 600px;
   margin: auto;
 }
 header
@@ -15,7 +15,7 @@ aside
   top: 80px;
 }
 
-#pagenav li
+nav li
 {
   list-style-type: none;
 }
@@ -23,7 +23,7 @@ aside
 /* Setup style information */
 html
 {
-  background: url('images/ship.png') top right no-repeat;
+  background: url('images/ship.png') top right no-repeat fixed;
   font: 18px / 25pt 'Source Sans Pro', sans-serif;
 }
 
@@ -37,6 +37,11 @@ h3 {margin: 0 0 1.286em; font-size: 1.167em;}
 h4 {margin: 0 0 1.5em; font-size: 1em;}
 h5 {margin: 0 0 1.8em; font-size: .834em;}
 h6 {margin: 0 0 2em; font-size: .75em;}
+
+#who
+{
+  margin-top: 400px;
+}
 
 
 /* weird style hacks */
