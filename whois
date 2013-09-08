@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pirateship -- a hackerspace in somerville ma</title>
+  <meta charset="UTF-8">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Include some fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400|Source+Code+Pro&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <!-- one and only style -->
+  <link rel=stylesheet href='./style.css'>
+
+</head>
+<body>
+
+  <header>
+    <hgroup>
+    <h1>p.irateship</h1>
+    <h5>hacker/maker/coworking space</h5>
+    <h5 id=where>440 somerville ave<br>
+                somerville, ma</h5>
+    </hgroup>
+  </header>
+
+  <aside>
+    <figure id=logo>
+      <h1>P.</h1>
+    </figure>
+    <nav id=pagenav>
+      <ul>
+        <li><a href='#who'>knock knock</a></li>
+
+      </ul>
+    </nav>
+  </aside>
+
+  <section id=what>
+    <a href="https://groups.google.com/forum/?hl=en#!forum/pirateship-announce">our announcement list</a>
+    <br />
+    <a href="http://alt.irateship.com">our famously inexplicable map/unmoderated 3D wiki</a>
+    <br />
+    <a href="http://where.irateship.com">a map to us in the 'real' world</a>
+    <br />
+    <a href="https://github.com/pirateship/pirateship.github.com/wiki">our wiki, with member guidelines, mailing list info, etc</a>
+    <br />
+    <a href="https://www.facebook.com/irateship">a facebook page</a>
+    <br />
+    <a href="https://www.wepay.com/donations/pirateship-membership">register to pay membership</a>
+    <br />
+    Pirateship minecraft server: http://208.83.234.76:25575/ (help <a href="http://hgspanel.hostedgameservers.com/pay.php?user=jywarren&getlink=true">pay to keep it online</a>) 
+
+  </section>
+
+  <section id=who>
+    <a name="who"><img src="images/pirates.jpg"></a> 
+    <h1>ARGH, that's who.</h1>
+    <p>Actually there are like 15 of us, and we don't all wear suits and are not all bearded.</p>
+  </section>  
+
+  <footer>
+    <nav>
+    <ul>
+      <li>
+        <a href="http://github.com/pirateship/pirateship.github.com">this website, on github</a>
+      </li>
+      <li>
+        <div class=reversed>ⓒ</div> Some rights reserved: 
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-by-sa</a>
+      </li>
+    </ul>
+    </nav>
+  </footer>
+
+</body>
+</html>
