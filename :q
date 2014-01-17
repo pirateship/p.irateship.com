@@ -45,11 +45,13 @@
     <a href="https://www.facebook.com/irateship">a facebook page</a>
     <br />
     <a href="/signup/">sign up for a membership</a>
-    <br />
-    <i>Below, a messy day at the ship.</i>
-    <br />
-    <br />
+
   </section>
+
+  <section id=who>
+    <h1>ARGH, that's who.</h1>
+    <p>Actually there are like 15 of us, and we don't all wear suits and are not all bearded.</p>
+  </section>  
 
   <img src="images/pirateship.jpg"/>
 
